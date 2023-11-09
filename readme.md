@@ -5,4 +5,3 @@ favourite restaurants
  - A
  - B
  - C
- -
