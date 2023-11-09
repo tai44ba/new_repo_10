@@ -1,7 +1,7 @@
-Taishi age:36
+Rusu Emanuel:32
 favourite color: Black
-favourite language: Japanese
+favourite language: English
 favourite restaurants
- - A
- - B
- - C
+ - 5guys
+ 
+ 
